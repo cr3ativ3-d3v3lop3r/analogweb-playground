@@ -1,2 +1,11 @@
 *.class
 *.log
+.idea
+target/
+project/target
+**/build
+.DS_Store
+.java-version
+.bloop
+.metals
+.vscode
